@@ -84,3 +84,6 @@ required. You can start the app with the command
 
 In order to run the tests you will have to execute `vendor/bin/phpunit`. 
 I've written 24 tests which contain 54 assertions.
+
+Also, the link to the YouTube video where I'm going through all the steps
+https://www.youtube.com/watch?v=cAKqwk1Gtb4
