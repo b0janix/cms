@@ -33,7 +33,7 @@ unit test located into the tests folder.
 
 At first, I was thinking to dockerize the applications but lacked the time for that. So to start the
 backend api just execute the following command
-`php artisan -S 127.0.0.1:8080 -t public`
+`php -S 127.0.0.1:8080 -t public`
 The next step would be to create the database. I have some .env configuration setup
 
 APP_NAME=Lumen
